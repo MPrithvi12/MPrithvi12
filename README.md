@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MPrithvi12
+- 🚀 Mechanical Engineer turned Data Science Enthusiast
+- 🌱 Passionate about leveraging data to drive innovation and solve complex problems
+- 📚 Constantly learning and growing in the world of analytics
+- 🤝 Let's collaborate and explore the possibilities together! 
+- 📫 Feel free to contact me via email at prithvidevaiahm26@gmail.com 📧
