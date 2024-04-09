@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MPrithvi12
+- 👋 Hi, I’m Prithvi Devaiah M
 - 🚀 Mechanical Engineer turned Data Science Enthusiast
 - 🌱 Passionate about leveraging data to drive innovation and solve complex problems
 - 📚 Constantly learning and growing in the world of analytics
